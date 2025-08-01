@@ -137,9 +137,9 @@ for (int row = 0; row < ROWS; row++) {
 
 `Sum of row: 0 = 10`
 
-`Sum of row 1 = 26`
+`Sum of row: 1 = 26`
 
-`Sum of row 2 = 42`
+`Sum of row: 2 = 42`
 
 ### Calculating the Product of Each Column:
 ```java
