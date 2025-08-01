@@ -2,7 +2,7 @@
 
 * Prefix
   * ++i (increment), --i (decrement)
-  * Increment i then check condition
+  * Increment/decrement i then check condition
   * if (--i > 5) - i = 6
     * 5 > 5 No 
 * Postfix
@@ -14,5 +14,6 @@
 * Prefix (Increment & Decrement):
   * int i = 6;
   * if (--i > 5)
+
 
 
