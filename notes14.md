@@ -258,7 +258,11 @@ public class Person {
     }
 }
 ```
-*Prints:* **Nothing... I'm pretty sure**
+
+*Prints:*
+
+**Nothing... I'm pretty sure**
+
 ### Overridden Default Constructor
 ```java
 public class Person {
@@ -272,7 +276,10 @@ public class Person {
     }
 }
 ```
-*Prints:* I don't do much
+*Prints:*
+
+I don't do much
+
 ### Parameterized Constructor
 ```java
 public class Person {
@@ -286,7 +293,10 @@ public class Person {
     }
 }
 ```
-*Prints:* I take a parameter
+*Prints:*
+
+I take a parameter
+
 Kazu 
 
 ### Overloaded Constructors
@@ -306,6 +316,10 @@ public class Person {
     }
 }
 ```
-*Prints:* I don't do much
+*Prints:*
+
+I don't do much
+
 I take a parameter
+
 Kazu
